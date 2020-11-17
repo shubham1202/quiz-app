@@ -1,5 +1,3 @@
-# vuejs-freecodecamp
-
 ## Project setup
 ```
 yarn install
